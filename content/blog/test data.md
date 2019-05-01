@@ -1,6 +1,5 @@
 +++
 current_date = "2019-05-01T12:31:00+00:00"
-draft = true
 
 +++
 <ul>
