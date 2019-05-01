@@ -13,4 +13,5 @@ fields:
     required: false
   hidden: false
 pages:
+- content/miaumiau.md
 - content/test.md
