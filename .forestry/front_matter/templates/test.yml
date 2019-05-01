@@ -1,0 +1,14 @@
+---
+label: test
+hide_body: false
+display_field: test
+fields:
+- type: textarea
+  name: test
+  label: test
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: false
+  hidden: false
