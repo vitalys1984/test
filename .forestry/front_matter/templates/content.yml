@@ -1,4 +1,9 @@
 ---
 label: Content
 hide_body: false
-fields: []
+fields:
+- name: nested_template
+  type: include
+  config: {}
+  template: test
+  label: Nested Template
