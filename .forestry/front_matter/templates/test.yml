@@ -12,3 +12,5 @@ fields:
       format: markdown
     required: false
   hidden: false
+pages:
+- content/test.md
