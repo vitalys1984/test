@@ -3,12 +3,13 @@ label: Blog post
 hide_body: false
 display_field: blog_post
 fields:
-- name: blog_post
-  type: textarea
-  default: Here the text goes
+- name: current_date
+  type: datetime
+  label: Current date
+  description: ''
   config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Blog Post
+    required: false
+    date_format: ''
+    time_format: ''
+    display_utc: 
+  default: now
