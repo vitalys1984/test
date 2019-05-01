@@ -1,5 +1,4 @@
 +++
-draft = true
 test = "Skidiki papa"
 
 +++
